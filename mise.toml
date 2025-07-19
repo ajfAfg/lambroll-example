@@ -1,0 +1,6 @@
+[env]
+_.file = ".env"
+
+[tools]
+terraform = '1.12.0'
+"aqua:fujiwara/lambroll" = "1.3.0"
